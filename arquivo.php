@@ -1,1 +1,1 @@
-<?= 'Olá Mundo teste de edição.' ?>
+<?= 'Olá Mundo.' ?>
