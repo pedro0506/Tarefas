@@ -1,0 +1,90 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2012 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+/**
+ * @var Mage_Page_Block_Html_Header $this
+ */
+?>
+<?php $count = $this->helper('checkout/cart')->getSummaryCount(); ?>
+<div id ="wrapper">
+    <div id="loading" style ="position: fixed;top: 50%;left: 50%;margin-top: -50px;"></div>
+</div>
+<div class="header-container">
+<div class="header-topo-links">
+	<!-- 1° Header - Topo links -->
+	<div class="menu-topo-links-crwa">
+		<div class="coluns-header-top logo-home">
+				<div class="icone-home"><a href="https://selegato.com.br/"><i class="fas fa-home"></i></a></div>
+		</div>
+		<div class="coluns-header-top links-topo">
+			<ul>
+	
+			<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('menu-topo-links')->toHtml(); ?> 
+			<?php 
+			if(Mage::getSingleton('customer/session')->isLoggedIn()){ 
+			$customer = Mage::getSingleton('customer/session')->getCustomer();
+			?>
+				<style>#login-off{display: none;}</style>
+				<li id="login-on"><a href="<?php echo $this->helper('customer')->getAccountUrl(); ?>" class="skip-account">
+					<span class="icon"></span>
+					<span class="label"><?php echo 'Olá, '.$customer->getFirstname(); ?></span>
+					<a href="https://selegato.com.br/customer/account/logout" title="Sair"><i class="fas fa-sign-out-alt"></i></a>
+				</a></li>
+			<?php }else{ ?>
+				<style>#login-off{display: inline-block;}</style>
+			<?php } ?>
+			</ul>
+		</div>
+	</div>
+	<!-- 2° Header - Logo e Menu -->
+	<div class="menu-header-menu-logo">
+		<div class="header-menu-content-crwa">
+			<div id="logo-crwa"><a href="https://selegato.com.br/"><img src="https://selegato.com.br/media/logo-selegato.png" /></a></div>
+			<div id="menu-crwa">
+				<ul>
+					<li><a href="#">Peças Mecânicas</a></li>
+					<li><a href="#">Acessórios</a></li>
+					<li><a href="#">Lubrificantes</a></li>
+					<li><a href="#">Pneus</a></li>
+					<li><a href="#">Novidades</a></li>
+				</ul>
+			</div>
+			<div id="carrinho-crwa">
+				<a href="https://selegato.com.br/checkout/cart/"><i class="fas fa-shopping-bag"></i></a>
+				<p id="count-cart"><?php if($count == ''){ echo '0'; }else{ echo $count; } ?></p>
+			</div>
+		</div>
+	</div>
+	<!-- 3° Header - Categorias -->
+	<div class="menu-header-categorias">
+		<div class="header-cateogiras-content-crwa">
+			<div class="coluns-selects-categorias"><?php echo $this->getChildHtml('topSearch') ?></div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+
