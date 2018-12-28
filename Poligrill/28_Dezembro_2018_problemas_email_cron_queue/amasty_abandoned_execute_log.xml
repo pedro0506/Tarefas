@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <log>
-  <time value="2018-12-27 12:09:37">
+  <time value="2018-12-28 15:02:31">
     <schedule>
       <allAbandonedCart>
         <ids/>
@@ -13,7 +13,7 @@
     </schedule>
     <send/>
   </time>
-  <time value="2018-12-27 12:30:53">
+  <time value="2018-12-28 15:03:21">
     <schedule>
       <allAbandonedCart>
         <ids/>
@@ -26,228 +26,163 @@
     </schedule>
     <send/>
   </time>
-  <time value="2018-12-27 13:05:28">
+  <time value="2018-12-28 15:05:39">
     <schedule>
       <allAbandonedCart>
-        <ids>8610</ids>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:10:53">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:14:20">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:14:21">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:24:55">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:28:42">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:33:36">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:36:47">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:36:52">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:41:07">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 15:44:36">
+    <schedule>
+      <allAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </allAbandonedCart>
+      <validAbandonedCart>
+        <ids/>
+        <count>0</count>
+      </validAbandonedCart>
+    </schedule>
+    <send/>
+  </time>
+  <time value="2018-12-28 16:07:10">
+    <schedule>
+      <allAbandonedCart>
+        <ids>1143</ids>
         <count>1</count>
       </allAbandonedCart>
       <validAbandonedCart>
-        <ids>8610</ids>
-        <count>1</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 13:46:27">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:12:36">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:15:55">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:18:48">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:21:38">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:23:01">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:24:47">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:24:52">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:25:21">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:30:41">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:33:19">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:36:28">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:39:39">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:40:44">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 15:41:22">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 16:51:42">
-    <schedule>
-      <allAbandonedCart>
-        <ids>1142</ids>
-        <count>1</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids>1142</ids>
+        <ids>1143</ids>
         <count>1</count>
       </validAbandonedCart>
     </schedule>
     <send/>
   </time>
-  <time value="2018-12-27 17:06:44">
+  <time value="2018-12-28 16:07:12">
     <schedule>
       <allAbandonedCart>
         <ids/>
@@ -260,59 +195,7 @@
     </schedule>
     <send/>
   </time>
-  <time value="2018-12-27 17:06:49">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-27 17:07:45">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-28 10:22:59">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-28 10:37:02">
-    <schedule>
-      <allAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </allAbandonedCart>
-      <validAbandonedCart>
-        <ids/>
-        <count>0</count>
-      </validAbandonedCart>
-    </schedule>
-    <send/>
-  </time>
-  <time value="2018-12-28 10:53:09">
+  <time value="2018-12-28 16:07:33">
     <schedule>
       <allAbandonedCart>
         <ids/>
