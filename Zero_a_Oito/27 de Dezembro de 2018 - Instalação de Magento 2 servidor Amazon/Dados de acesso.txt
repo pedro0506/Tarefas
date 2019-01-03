@@ -1,0 +1,14 @@
+Host: ec2-54-152-9-71.compute-1.amazonaws.com
+User: ubuntu
+Senha: senhas de acesso em anexo.
+
+Banco de dados:
+
+Host: zeroaoito.ceobavitwals.us-east-1.rds.amazonaws.com
+DB: zeroaoito
+User: agencialife
+Senha: Life2018 
+
+http://54.152.9.71/magento2/admin
+u: admin
+s: O1tO312f#4dG6*94Dfgbv
